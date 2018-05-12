@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9395
     wikipedia: http://pt.wikipedia.org/wiki/C%C3%A2ndido_de_Figueiredo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20570#A-penalidade-na-India-segundo-o-C-digo-de-Manu
 gutenberg_issued: '2007-02-11'
 gutenberg_type: Text
 identifiers:
